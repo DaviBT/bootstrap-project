@@ -1,3 +1,11 @@
 .container {
   max-width: 960px;
 }
+
+i{
+  color: blue;
+}
+
+#iheadericon{
+  color:yellow;
+}
